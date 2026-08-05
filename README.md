@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer
+  💻 Full Stack Developer / Cyber Security
 </h3>
 
 <p align="center">
