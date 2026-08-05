@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá 👋 Eu sou Thiago Moreira
+  Olá sou Moreira
 </h1>
 
 <h3 align="center">
@@ -67,81 +67,16 @@ Atualmente estou construindo produtos SaaS e desenvolvendo soluções digitais p
 
 ---
 
-# 🚀 Projetos
 
-### 🏢 JAD WEB
+### 🏢 Founder JAD WEB
 
-Empresa especializada em desenvolvimento de soluções web, landing pages premium e aplicações sob medida.
-
-### ⛪ SaaS para Igrejas
-
-Sistema completo para gestão de igrejas, células, líderes, membros, discipulado e comunicação.
-
-### 🤖 Inteligência Artificial
-
-Automações, integrações e aplicações utilizando IA.
-
-### 📈 Landing Pages
-
-Projetos focados em performance, SEO e conversão.
+Startup especializada em desenvolvimento de soluções web, sites, landing pages e aplicações sob medida.
 
 ---
 
-# 📊 Estatísticas
+# 📫 Contato
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moreiradev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiradev&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=moreiradev&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moreiradev&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moreiradev&theme=github-compact"/>
-
-</p>
-
----
-
-# 📫 Vamos nos conectar?
-
-<p align="center">
-
-<a href="https://jadweb.vercel.app">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="mailto:contato@jadweb.com.br">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+🌐 https://jadweb.vercel.app
 
 ---
 
